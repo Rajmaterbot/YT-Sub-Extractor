@@ -3,4 +3,4 @@ A Telegram bot that can extract Youtube subtitle and send it to you as a text fi
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samadii/YT-Sub-Extractor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajmaterbot/YT-Sub-Extractor)
